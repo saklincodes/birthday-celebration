@@ -5,8 +5,8 @@ A warm, interactive birthday greeting page created for a special celebration. Th
 ## Features
 
 - Animated `Happy Birthday` introduction
-- Personalized recipient name: **Hayati**
-- Birthday date reveal: **23 May 2005**
+- Personalized recipient name: **My Love**
+- Birthday tagline reveal: **To The Prettiest Girl**
 - Interactive birthday letter with animated message
 - Floating heart cursor effect
 - Decorative balloons, flags, stars, and flowers

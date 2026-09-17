@@ -236,13 +236,15 @@ height:auto;
 }
 .date__of__birth span, .name span{
     font-weight: bold;
-    margin: 0px 40px;
-}
-.date__of__birth span{
-    font-size: 1.2rem;
 }
 .name span{
+    margin: 0px 40px;
     font-size: 1.7rem;
+}
+.date__of__birth span{
+    font-size: 1.15rem;
+    margin: 0px 10px;
+    white-space: nowrap;
 }
 .right .box__account{
     position: relative;
