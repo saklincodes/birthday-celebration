@@ -117,6 +117,20 @@
     else { set_scroll(); y = event.y + sdown; x = event.x + sleft; }
   }
 
+  document.addEventListener('touchmove', function(e) {
+    if (e.touches && e.touches.length > 0) {
+      y = e.touches[0].pageY;
+      x = e.touches[0].pageX;
+    }
+  }, { passive: true });
+
+  document.addEventListener('touchstart', function(e) {
+    if (e.touches && e.touches.length > 0) {
+      y = e.touches[0].pageY;
+      x = e.touches[0].pageX;
+    }
+  }, { passive: true });
+
   window.onresize = set_width;
   function set_width() {
     var sw_min = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
