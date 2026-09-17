@@ -6,8 +6,13 @@ An aesthetic, animated, and customizable interactive birthday greeting website b
 
 [![GitHub stars](https://img.shields.io/github/stars/saklincodes/birthday-celebration?style=for-the-badge&color=ff7882)](https://github.com/saklincodes/birthday-celebration/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/saklincodes/birthday-celebration?style=for-the-badge&color=ff6699)](https://github.com/saklincodes/birthday-celebration/network/members)
+[![Vercel](https://img.shields.io/badge/Vercel-Deployed-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://birthday-celebration-woad-chi.vercel.app)
 [![License](https://img.shields.io/badge/License-MIT-black.svg?style=for-the-badge)](LICENSE)
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤️%20&%20Code-ff3366?style=for-the-badge)](https://github.com/saklincodes)
+
+<br />
+
+🚀 **[View Live Demo](https://birthday-celebration-woad-chi.vercel.app)**
 
 <br />
 
